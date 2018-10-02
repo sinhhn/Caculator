@@ -1,4 +1,4 @@
 # Caculator's Goal
-* Auto Layout
+* [x] Auto Layout
 * Use Protocol 
 * Use Closure
